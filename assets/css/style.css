@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #f94a6a;
+  background: #fb9d00;
   color: #fff;
 }
 .back-to-top.active {
@@ -1008,7 +1008,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   padding-left: 25px;
   cursor: pointer;
-  color: #e0072f;
+  color: #c98e2b;
   transition: 0.3s;
 }
 #faq .faq-list i {
@@ -1093,7 +1093,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
 }
 #subscribe button:hover {
-  background: #e0072f;
+  background: #c98e2b;
 }
 @media (max-width: 460px) {
   #subscribe button {
@@ -1145,7 +1145,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #buy-tickets .card .btn:hover {
-  background-color: #e0072f;
+  background-color: #c98e2b;
 }
 #buy-tickets #buy-ticket-modal input, #buy-tickets #buy-ticket-modal select {
   border-radius: 0;
@@ -1160,7 +1160,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #buy-tickets #buy-ticket-modal .btn:hover {
-  background-color: #e0072f;
+  background-color: #c98e2b;
 }
 
 /*--------------------------------------------------------------
@@ -1271,7 +1271,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 #contact .php-email-form button[type=submit]:hover {
-  background: #e0072f;
+  background: #c98e2b;
 }
 @-webkit-keyframes animate-loading {
   0% {
@@ -1408,7 +1408,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 #footer .footer-top .footer-newsletter input[type=submit]:hover {
-  background: #e0072f;
+  background: #c98e2b;
 }
 #footer .copyright {
   text-align: center;
